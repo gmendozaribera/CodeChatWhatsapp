@@ -44,3 +44,4 @@ const MYSQL_DB_NAME = 'chatbot'
 const MYSQL_DB_PORT = '3306'
 ```
 ---
+Tota la infomacion y documentacion tambien la puedes encontrar en **[bot-whatsapp](https://bot-whatsapp.netlify.app/)**
