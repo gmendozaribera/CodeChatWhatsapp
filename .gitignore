@@ -2,4 +2,4 @@
 /bot_sessions
 *.log
 bot.qr.png
-
+package-lock.json
